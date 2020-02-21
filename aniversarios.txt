@@ -1,18 +1,1 @@
 nome,dia,mes,funcao,email
-Roberto Colistete Jr,12,02,Professor,0
-Vinicius Mota,25,02,Professor,0
-Magnos Martinello,22,04,Professor,0
-Rodolfo Villaça,04,05,Professor,0
-Rodolfo Valentim,04,05,Mestrando,0
-Dione Lima,04,05,Colaboradora Externa (IFES),0
-João Henrique,24,06,Doutorando,0
-Diego Cardoso,01,07,Mestrando,0
-Cristina Dominicini,28,07,Doutoranda,0
-Epaminondas Aguiar,10,08,Mestrando,0
-Marcel Becali,24,08,Mestrando,0
-Rafael Silva Guimarães,01,09,Doutorando,0
-Eduardo Zambon,02,09,Professor,0
-Alan Helal,03,10,Mestrando,0
-Diego Rossi Mafioletti,27,11,Doutorando,0
-Victor Garcia,29,11,Mestrando,0
-Ricardo Mello,19,12,Doutorando,0
